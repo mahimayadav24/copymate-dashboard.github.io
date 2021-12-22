@@ -81,9 +81,9 @@ var options = {
         borderColor: '#f1f1f1',
         strokeDashArray: 0.9,
         padding: {
-            bottom: 80,
+            bottom: 10,
             top: 10,
-            right: 80
+            right: 50
         }
     }
 };
