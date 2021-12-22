@@ -1140,7 +1140,7 @@ ol, ul {
 }
 
 .corner-radius-grid-row>div:nth-child(1) {
-    border-top-left-radius: 160px;
+    border-top-left-radius: 115px;
     background-color: rgba(255, 215, 233, 1);
 
 }
@@ -1274,19 +1274,19 @@ ol, ul {
 }
 
 .corner-radius-grid-row>div:nth-child(2) {
-    border-top-right-radius: 160px;
+    border-top-right-radius: 115px;
     margin-top: 1em;
     background: rgba(224, 211, 254, 1);
 }
 
 .corner-radius-grid-row>div:nth-child(3) {
-    border-bottom-left-radius: 160px;
+    border-bottom-left-radius: 115px;
     margin-top: -1em;
     background: rgba(203, 243, 255, 1);
 }
 
 .corner-radius-grid-row>div:nth-child(4) {
-    border-bottom-right-radius: 160px;
+    border-bottom-right-radius: 115px;
     margin-top: 0em;
     background: rgba(255, 219, 219, 1);
 }
